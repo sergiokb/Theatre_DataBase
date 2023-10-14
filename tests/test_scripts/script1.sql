@@ -1,0 +1,1 @@
+SELECT * FROM directors WHERE began_career > '1998-10-16';

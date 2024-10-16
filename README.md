@@ -6,3 +6,8 @@
 
 Более подробную информацию о таблицах см. в физической модели.
 
+# Theatrical performances
+There is a database for European theatrical performances. It contains information about performances, directors, theaters, actors, roles, characters, plays, tickets, and audiences. In addition to allowing audiences to select a performance and purchase suitable tickets, the database includes functionality for analyzing data about the performances. There are also features aimed at increasing people's interest in theater by providing additional information about actors, directors, and more.
+
+For more detailed information about the tables, see the physical model.
+
